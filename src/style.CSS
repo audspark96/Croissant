@@ -1,0 +1,22 @@
+a {
+  color: green;
+  margin: 10px;
+}
+body {
+  background-color: #f8e8a6;
+  margin: 15px;
+  text-align: center;
+}
+
+h1 {
+  font-size: 30px;
+}
+
+container {
+  display: flex;
+  justify-content: space-around;
+}
+
+.email {
+  color: blue;
+}
